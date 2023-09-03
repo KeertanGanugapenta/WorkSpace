@@ -1,0 +1,35 @@
+.container {
+  align-items: center;
+  width: 18.8%;
+  border-style: solid;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  margin-left: 400px;
+}
+.heading {
+  line-height: 0.3em;
+  display: inline-flex;
+  gap: 20px;
+  color: white;
+  text-align: center;
+  background-color: rgb(74, 14, 130);
+  width: 100%;
+}
+.pic {
+  background-color: white;
+  margin-top: 5px;
+}
+.cont {
+  background-color: white;
+  line-height: 0.3em;
+  text-align: center;
+}
+.container2 {
+  border-style: solid;
+  line-height: 0.3em;
+  width: 18%;
+  display: inline-block;
+  position: absolute;
+  padding-left: 2px;
+  top: 10px;
+  margin-left: 800px;
+}
